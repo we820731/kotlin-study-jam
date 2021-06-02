@@ -1,6 +1,5 @@
 ---
 title: 'kotlin-study-jam'
-disqus: hackmd
 ---
 
 kotlin-study-jam
