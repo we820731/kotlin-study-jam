@@ -10,7 +10,7 @@ kotlin-study-jam
 ## 章節
 - [x] [試試水溫：Kotlin 正掀起浪潮](https://www.notion.so/Kotlin-23ee4a4938784dc6bd73221fe6c0fbf5) 2021/06/02
 - [x] [成為變數：所有的程式碼都需要一種東西-變數](https://www.notion.so/fade932ac9b848e7824a819620a5bfe3) 2021/06/03
-- [ ] [離開main函式：該提升檔次，學學函式了](https://www.notion.so/main-0a09c49685c34fe1b9a50dd4a8fb7c35)
+- [x] [離開main函式：該提升檔次，學學函式了](https://www.notion.so/main-0a09c49685c34fe1b9a50dd4a8fb7c35) 2021/06/06
 - [ ] [淺嚐類別：是時候看些Kotlin 基本型態以外的東西了](https://www.notion.so/Kotlin-d6d2e70aa73640cca8c011f1a3cbd082)
 - [ ] [善用繼承：你是否曾經發現，有些既有的物件型態只要稍作修改，就很適合用來處理眼前的問題？](https://www.notion.so/7ed23f3855bc40bfb29c266357c78c06)
 - [ ] [認真的多型：超類別繼承階層只是個開端](https://www.notion.so/b68d749b3c5c4ec7ada58fcdfb15a93c)
